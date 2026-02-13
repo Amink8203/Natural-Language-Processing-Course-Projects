@@ -4,3 +4,9 @@
 [submodule "CA4/Part2"]
 	path = CA4/Part2
 	url = https://github.com/Amink8203/Improve-Instruction-Following-of-Large-Language-Models
+[submodule "CA5/Part1"]
+	path = CA5/Part1
+	url = https://github.com/Amink8203/TravelBot
+[submodule "CA5/Part2"]
+	path = CA5/Part2
+	url = https://github.com/Amink8203/Intelligent-Response-System-based-on-Country-Laws
