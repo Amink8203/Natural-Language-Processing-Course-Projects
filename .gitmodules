@@ -1,0 +1,6 @@
+[submodule "CA4/Part1"]
+	path = CA4/Part1
+	url = https://github.com/Amink8203/Comparing-Encoder-Decoder-and-Decoder-Only-models-in-Text-to-SQL-Task
+[submodule "CA4/Part2"]
+	path = CA4/Part2
+	url = https://github.com/Amink8203/Improve-Instruction-Following-of-Large-Language-Models
